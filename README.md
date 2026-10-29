@@ -147,11 +147,11 @@ created locally and are not committed to the repository.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/4gnim/incidentiq-ai-agent.git
 cd incidentiq-ai-agent
 ```
 
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with the repository URL.
+Replace `https://github.com/4gnim/incidentiq-ai-agent.git` with the repository URL.
 
 ### 2. Create a virtual environment
 
